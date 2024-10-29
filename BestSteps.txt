@@ -1,0 +1,67 @@
+#Map 1
+Best step: 30
+
+#Map 2
+Best step: 14
+
+#Map 3
+Best step: 71
+
+#Map 4
+Best step: 36
+
+#Map 5
+Best step: 43
+
+#Map 6
+Best step: 25
+
+#Map 7
+Best step: 37
+
+#Map 8
+Best step: 84
+
+#Map 9
+Best step: 10
+
+#Map 10
+Best step: 38
+
+#Map 11
+Best step: 158
+
+#Map 12
+Best step: 56
+
+#Map 13
+Best step: 84
+
+#Map 14
+Best step: 19
+
+#Map 15
+Best step: 19
+
+#Map 16
+Best step: 283
+
+#Map 17
+Best step: 236
+
+#Map 18
+Best step: 448
+
+#Map 19
+Best step: 3
+
+#Map 20
+Best step: 398
+
+# Map 21
+
+# Map 22
+
+# Map 23
+
+# Map 24

@@ -1,0 +1,70 @@
+#Map 1
+Best Time: 3.19860
+
+#Map 2
+Best Time: 0.35120
+
+#Map 3
+Best Time: 3.83910
+
+#Map 4
+Best Time: 4.11908
+
+#Map 5
+Best Time: 4.92344
+
+#Map 6
+Best Time: 0.00000
+
+#Map 7
+Best Time: 4.19157
+
+#Map 8
+Best Time: 10.30773
+
+#Map 9
+Best Time: 0.11955
+
+#Map 10
+Best Time: 4.32334
+
+#Map 11
+Best Time: 18.52587
+
+#Map 12
+Best Time: 6.83303
+
+#Map 13
+Best Time: 10.21408
+
+#Map 14
+Best Time: 2.15470
+
+#Map 15
+
+#Map 16
+Best Time: 33.84847
+
+#Map 17
+Best Time: 49.26012
+
+#Map 18
+Best Time: 55.16544
+
+#Map 19
+Best Time: 44.25186
+
+#Map 20
+Best Time: 46.25592
+
+# Map 21
+Best Time: 
+
+# Map 22
+Best Time: 
+
+# Map 23
+Best Time: 
+
+# Map 24
+Best Time: 
